@@ -1,6 +1,7 @@
 #include <iostream>
-#define _USE_MATH_DEFINES
 #include<cmath>
+#define _USE_MATH_DEFINES
+
 int main(){
     setlocale(LC_ALL, "Russian");
     using namespace std;
