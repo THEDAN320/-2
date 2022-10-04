@@ -1,7 +1,9 @@
 #include <iostream>
 
 int main() {
-    using namespace std;
+
+    using std::cout;
+    using std::cin;
     int num,n1,n2,n3,n4,n5;
     cout<<"Введите число - "<<"\n";
     cin >> num;
